@@ -1,0 +1,16 @@
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\TreciProjekatSportMonks.exe.config
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\TreciProjekatSportMonks.exe
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\TreciProjekatSportMonks.pdb
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\Newtonsoft.Json.dll
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\System.Reactive.dll
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\Newtonsoft.Json.xml
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\System.Reactive.xml
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\obj\Debug\TreciProjekatSportMonks.csproj.AssemblyReference.cache
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\obj\Debug\TreciProjekatSportMonks.csproj.CoreCompileInputs.cache
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\obj\Debug\TreciPro.213643EE.Up2Date
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\obj\Debug\TreciProjekatSportMonks.exe
+D:\fax\Treca godina\Sistemsko Programiranje\TreciProjekatSportMonks\TreciProjekatSportMonks\obj\Debug\TreciProjekatSportMonks.pdb

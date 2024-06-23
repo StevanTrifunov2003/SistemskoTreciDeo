@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fax\\Treca godina\\Sistemsko Programiranje\\TreciProjekatSportMonks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A286DBD0-F826-4636-B358-AF65664302B3}|TreciProjekatSportMonks\\TreciProjekatSportMonks.csproj|d:\\fax\\treca godina\\sistemsko programiranje\\treciprojekatsportmonks\\treciprojekatsportmonks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A286DBD0-F826-4636-B358-AF65664302B3}|TreciProjekatSportMonks\\TreciProjekatSportMonks.csproj|solutionrelative:treciprojekatsportmonks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A286DBD0-F826-4636-B358-AF65664302B3}|TreciProjekatSportMonks\\TreciProjekatSportMonks.csproj|D:\\fax\\Treca godina\\Sistemsko Programiranje\\TreciProjekatSportMonks\\treciprojekatsportmonks\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A286DBD0-F826-4636-B358-AF65664302B3}|TreciProjekatSportMonks\\TreciProjekatSportMonks.csproj|solutionrelative:treciprojekatsportmonks\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemsko Programiranje\\TreciProjekatSportMonks\\TreciProjekatSportMonks\\Logger.cs",
+              "RelativeDocumentMoniker": "TreciProjekatSportMonks\\Logger.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemsko Programiranje\\TreciProjekatSportMonks\\TreciProjekatSportMonks\\Logger.cs",
+              "RelativeToolTip": "TreciProjekatSportMonks\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:39:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemsko Programiranje\\TreciProjekatSportMonks\\TreciProjekatSportMonks\\Program.cs",
+              "RelativeDocumentMoniker": "TreciProjekatSportMonks\\Program.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemsko Programiranje\\TreciProjekatSportMonks\\TreciProjekatSportMonks\\Program.cs",
+              "RelativeToolTip": "TreciProjekatSportMonks\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:24:56.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
